@@ -22,7 +22,8 @@
   transition-duration: 100ms;
 }
 
-#panel.transparent-top-bar--solid {
+/*remnants of upstream*/
+/*#panel.transparent-top-bar--solid {
     transition-duration: 300ms;
 }
 #panel.transparent-top-bar--solid .panel-corner {
@@ -78,4 +79,4 @@
 #panel.transparent-top-bar--transparent:focus .system-status-icon,
 #panel.transparent-top-bar--transparent:checked .system-status-icon {
     icon-shadow: none;
-}
+}*/
