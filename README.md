@@ -9,9 +9,6 @@ Fork of gnome-compact-top-bar by @metehan-arslan.
 </pre>
 2- Log out and log in. You will see Compact Top Bar Extension in your GNOME Extensions tool.
 
-## Install on Arch Linux
-to be added
-
 ## Screenshots
 to be added
 
