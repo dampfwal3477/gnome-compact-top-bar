@@ -2,11 +2,11 @@
 #panel, #panel:overview, #panel.unlock-screen, #panel.login-screen, #panel.lock-screen {
   background-color: #000;
   /* font-weight: 500;*/
-  height: 32px;
+  height: 27px;
   color: #dadada;
   /*font-feature-settings: "tnum";*/
   transition-duration: 250ms;
-  font-size: 8pt;
+  font-size: 9pt;
   transition: all;
   box-shadow: none;
   transition-duration: 250ms;
@@ -14,8 +14,8 @@
 
 /*Buttons*/
 #panel .panel-button, #panel:overview.panel-button, #panel.unlock-screen.panel-button, #panel.login-screen.panel-button, #panel.lock-screen.panel-button {
-  -natural-hpadding: 7px;
-  -minimum-hpadding: 7px;
+  /*-natural-hpadding: 7px;
+  -minimum-hpadding: 7px;*/
   font-weight: 500;
 
   transition: all;
