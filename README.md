@@ -1,4 +1,4 @@
-# gnome-minimal-top-bar
+# gnome-compact-top-bar
 
 Fork of gnome-compact-top-bar by @metehan-arslan.
 
