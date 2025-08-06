@@ -2,11 +2,11 @@
 #panel, #panel:overview, #panel.unlock-screen, #panel.login-screen, #panel.lock-screen {
   background-color: #000;
   /* font-weight: 500;*/
-  height: 27px;
+  height: 20px;
   color: #dadada;
   /*font-feature-settings: "tnum";*/
   transition-duration: 250ms;
-  font-size: 9pt;
+  font-size: 8.5pt;
   transition: all;
   box-shadow: none;
   transition-duration: 250ms;
