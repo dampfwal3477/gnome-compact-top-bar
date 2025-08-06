@@ -1,11 +1,12 @@
 {
   "description": "Slims the top bar for more space.",
   "name": "Compact Top Bar",
-  "shell-version": ["46","47","48"],
-  "url": "https://github.com/metehan-arslan/gnome-compact-top-bar",
-  "uuid": "gnome-compact-top-bar@dampfwal3477.github.io",
-  "version": 12,
   "settings-schema": "org.gnome.shell.extensions.compact-top-bar",
   "settings-schema-path": "schemas/",
-  "preferences": "prefs.js"
+  "shell-version": [
+    "46", "47", "48"
+  ],
+  "url": "https://github.com/dampfwal3477/gnome-compact-top-bar",
+  "uuid": "gnome-compact-top-bar@dampfwal3477.github.io",
+  "version": 12
 }
